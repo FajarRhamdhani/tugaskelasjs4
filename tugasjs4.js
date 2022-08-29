@@ -102,12 +102,10 @@
 
 // var kalimat = document.getElementById("kalimat");
 // var warnaSelect = document.querySelectorAll("button");
-// console.log(warnaSelect.length);
-// console.log(tombolSelect.id)
 
 // var ubahWarna = () => {
 //     for (let i = 0; i < warnaSelect.length; i++) { 
-//         warnaSelect[i].addEventListener("clilsck", (e) => {
+//         warnaSelect[i].addEventListener("click", (e) => {
 //             if(warnaSelect[i].value === "hijau"){
 //                 kalimat.className = "btn btn-success"
 //                 e.preventDefault();  
