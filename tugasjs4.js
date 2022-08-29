@@ -107,7 +107,7 @@
 
 // var ubahWarna = () => {
 //     for (let i = 0; i < warnaSelect.length; i++) { 
-//         warnaSelect[i].addEventListener("click", (e) => {
+//         warnaSelect[i].addEventListener("clilsck", (e) => {
 //             if(warnaSelect[i].value === "hijau"){
 //                 kalimat.className = "btn btn-success"
 //                 e.preventDefault();  
